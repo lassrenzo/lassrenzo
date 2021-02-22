@@ -7,8 +7,6 @@ lassrenzo/lassrenzo is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
----
-
 ### Connect with me:
 
 [<img align="left" alt="lassrenzo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -16,7 +14,6 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="lassrenzo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
----
 
 ### Languages and Tools:
 
@@ -27,7 +24,6 @@ You can click the Preview link to take a look at your changes.
 ![BOOTSTRAP](https://img.icons8.com/color/30/bootstrap.png)
 ![MYSQL](https://img.icons8.com/color/30/mysql.png)
 ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
-
 
 ---
 [website]: https://lassrenzo.github.io
