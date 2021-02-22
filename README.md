@@ -17,13 +17,13 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages and Tools:
 
-![HTML5](<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />)
+![HTML5](https://img.icons8.com/color/30/html-5.png)
 ![CSS3](https://img.icons8.com/color/30/css3.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![PHP](https://img.icons8.com/color/30/php.png)
-![BOOTSTRAP](https://img.icons8.com/color/30/wordpress.png)
-![FONTAWESOME](https://img.icons8.com/color/30/wordpress.png)
-![MYSQL](https://img.icons8.com/color/30/sass.png)
+![BOOTSTRAP](https://img.icons8.com/color/30/bootstrap.png)
+![FONTAWESOME](https://img.icons8.com/color/30/fontawesome.png)
+![MYSQL](https://img.icons8.com/color/30/mysql.png)
 ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 
 
