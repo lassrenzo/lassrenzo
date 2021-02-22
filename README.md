@@ -28,3 +28,7 @@ You can click the Preview link to take a look at your changes.
 [website]: https://lassrenzo.github.io
 [twitter]: https://twitter.com/lassrenzo
 [instagram]: https://instagram.com/lassrenzo
+[webdevplaylist]: 
+[jsplaylist]: 
+[cssplaylist]: 
+[reactplaylist]:
