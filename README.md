@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages and Tools:
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)
+![HTML5](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
 ![CSS3](https://img.icons8.com/color/30/css3.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![PHP](https://img.icons8.com/color/30/php.png)
