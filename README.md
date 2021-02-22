@@ -22,7 +22,6 @@ You can click the Preview link to take a look at your changes.
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![PHP](https://img.icons8.com/color/30/php.png)
 ![BOOTSTRAP](https://img.icons8.com/color/30/bootstrap.png)
-![FONTAWESOME](https://img.icons8.com/color/30/fontawesome.png)
 ![MYSQL](https://img.icons8.com/color/30/mysql.png)
 ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 
